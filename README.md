@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Clo3d, VB.net, and Java.<br>🌱 I’m currently learning coding and designing clothes<br>💬 Ask me about designing and photography<br>
+🔭 I’m currently working on Clo3d, VB.net, and Java<br>🌱 I’m currently learning coding and designing clothes<br>💬 Ask me about designing, photography, and Java<br>
 
 
 # 💻 Tech Stack:
